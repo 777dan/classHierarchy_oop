@@ -1,0 +1,7 @@
+form {
+    justify-content: center;
+    display: flex;
+}
+input {
+    font-size: 40px;
+}
